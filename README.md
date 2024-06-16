@@ -51,7 +51,7 @@ return
         ControlSend,, {F9 up}, ahk_class Ragnarok
         MouseClick, Left
     }
-return
+return```
 
 # Usage
 
