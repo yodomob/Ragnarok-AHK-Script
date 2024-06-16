@@ -55,8 +55,8 @@ return
 ```
 # Usage
 
-Install AutoHotkey: Download and install AutoHotkey from https://www.autohotkey.com/.
-Download the Script: Download the ragnarok.ahk file from this repository.
-Run the Script: Double-click the ragnarok.ahk file to run the script. Ensure AutoHotkey is installed on your computer.
-Activate Ragnarok: Make sure the Ragnarok Online game window is active.
-Use the Key Bindings: Press the specified keys or mouse buttons to perform the automated actions as described.
+- Install AutoHotkey: Download and install AutoHotkey from https://www.autohotkey.com/.
+- Download the Script: Download the ragnarok.ahk file from this repository.
+- Run the Script: Double-click the ragnarok.ahk file to run the script. Ensure AutoHotkey is installed on your computer.
+- Activate Ragnarok: Make sure the Ragnarok Online game window is active.
+- Use the Key Bindings: Press the specified keys or mouse buttons to perform the automated actions as described.
