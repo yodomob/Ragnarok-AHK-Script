@@ -51,8 +51,8 @@ return
         ControlSend,, {F9 up}, ahk_class Ragnarok
         MouseClick, Left
     }
-return```
-
+return
+```
 # Usage
 
 Install AutoHotkey: Download and install AutoHotkey from https://www.autohotkey.com/.
