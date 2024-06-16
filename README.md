@@ -53,7 +53,7 @@ return
     }
 return
 
-#Usage
+# Usage
 
 Install AutoHotkey: Download and install AutoHotkey from https://www.autohotkey.com/.
 Download the Script: Download the ragnarok.ahk file from this repository.
